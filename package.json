@@ -1,0 +1,68 @@
+{
+  "name": "personal-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@heroicons/react": "^2.1.4",
+    "@react-three/drei": "^9.107.0",
+    "@react-three/fiber": "^8.16.8",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "animate.css": "^4.1.1",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.1.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "framer-motion": "^11.2.10",
+    "nodemailer": "^6.9.13",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.10.2",
+    "react-bootstrap-icons": "^1.8.2",
+    "react-dom": "^18.1.0",
+    "react-icons": "^5.2.1",
+    "react-intersection-observer": "^9.10.3",
+    "react-mailchimp-subscribe": "^2.1.3",
+    "react-multi-carousel": "^2.8.5",
+    "react-on-screen": "^2.1.1",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.23.1",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
+    "three": "^0.165.0",
+    "web-vitals": "^2.1.4"
+  },
+ "scripts": {
+    "start": "react-scripts start", 
+    "heroku-postbuild": "cd client && npm install -only-dev && pm install && pm run build",
+    "build": "react-scripts build", 
+    "test": "react-scripts test",   
+    "dev": "react-scripts start"    
+  
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "html-webpack-plugin": "^5.6.0"
+  }
+}

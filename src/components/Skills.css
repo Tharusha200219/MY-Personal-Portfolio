@@ -1,0 +1,66 @@
+/* Skills.css */
+
+.skill {
+    padding: 80px 0;
+    position: relative;
+  }
+  
+  .skill-bx {
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  
+  .skill-bx h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .skill-bx p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #777;
+    margin-bottom: 40px;
+  }
+  
+  .owl-carousel .item {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .owl-carousel .item img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .owl-carousel .item h5 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 15px;
+  }
+  
+  .background-image-left {
+    position: absolute;
+    top: 0;
+    left: -120px;
+    z-index: -1;
+    max-width: 100%;
+  }
+  
+  .background-image-right {
+    position: absolute;
+    bottom: 0;
+    right: -150px;
+    z-index: -1;
+    max-width: 100%;
+  }
+  
+  @media (max-width: 768px) {
+    .background-image-left,
+    .background-image-right {
+      display: none;
+    }
+  }
+  

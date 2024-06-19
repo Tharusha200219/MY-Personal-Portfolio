@@ -1,0 +1,13 @@
+.logo {
+    animation: slideLeftToRight 3s ease-in-out infinite alternate;
+  }
+  
+  @keyframes slideLeftToRight {
+    0% {
+      transform: translateX(-20px);
+    }
+    100% {
+      transform: translateX(20px);
+    }
+  }
+  

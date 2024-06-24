@@ -29,12 +29,7 @@ export const Skill_data = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Redux",
-    Image: "/redux.png",
-    width: 80,
-    height: 80,
-  },
+  
   {
     skill_name: "React Query",
     Image: "/reactquery.png",
@@ -53,18 +48,7 @@ export const Skill_data = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Framer Motion",
-    Image: "/framer.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Stripe Payment",
-    Image: "/stripe.webp",
-    width: 80,
-    height: 80,
-  },
+  
   {
     skill_name: "Node js",
     Image: "/node-js.png",
@@ -116,12 +100,7 @@ export const Frontend_skill = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Redux",
-    Image: "/redux.png",
-    width: 80,
-    height: 80,
-  },
+  
   {
     skill_name: "React Query",
     Image: "/reactquery.png",
@@ -179,30 +158,14 @@ export const Backend_skill = [
     width: 70,
     height: 70,
   },
-  {
-    skill_name: "Prisma",
-    Image: "/prisma.webp",
-    width: 70,
-    height: 70,
-  },
-  {
-    skill_name: "Graphql",
-    Image: "/graphql.png",
-    width: 80,
-    height: 80,
-  },
+  
+  
 ];
 
 export const Full_stack = [
   {
     skill_name: "React Native",
     Image: "/ReactNative.png",
-    width: 70,
-    height: 70,
-  },
-  {
-    skill_name: "Tauri",
-    Image: "/tauri.svg",
     width: 70,
     height: 70,
   },
@@ -221,10 +184,5 @@ export const Full_stack = [
 ];
 
 export const Other_skill = [
-  {
-    skill_name: "Go",
-    Image: "/go.png",
-    width: 60,
-    height: 60,
-  },
+  
 ];

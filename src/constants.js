@@ -36,12 +36,7 @@ export const Skill_data = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Type Script",
-    Image: "/ts.png",
-    width: 80,
-    height: 80,
-  },
+  
   {
     skill_name: "Next js 13",
     Image: "/next.png",
@@ -146,12 +141,7 @@ export const Backend_skill = [
     width: 55,
     height: 55,
   },
-  {
-    skill_name: "Postger SQL",
-    Image: "/postger.png",
-    width: 70,
-    height: 70,
-  },
+  
   {
     skill_name: "My SQL",
     Image: "/mysql.png",

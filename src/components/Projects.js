@@ -18,13 +18,13 @@ export const Projects = () => {
       title: "PET CARE AND ADOPTION MOBILE APP",
       description: "Welcome to Pet Care and Adaptation mobile application! this app developed using Android Studio, users can seamlessly manage their pet's needs, track health records, and connect with local shelters for adoption.",
       imgUrl: projImg1,
-      link: "https://github.com/Tharusha200219/TEA_FACTORY_MANAGEMENT_SYSTEM_Year_2_Semester_2_Project.git"
+      link: "https://github.com/Tharusha200219/PET_CARE_AND_ADOPTION_MOBILE_APP_YEAR_2_SEMESTER_2.git"
     },
     {
       title: "Task Management Application",
       description: "TaskVault is a sleek and efficient task management app designed to streamline your productivity. With intuitive features like task creation, updating, and deletion, along with date, TaskVault keeps your tasks organized and on track. Utilizing SQLite and Room database technology, TaskVault ensures your data is secure and synchronized across devices",
       imgUrl: projImg2,
-      link: "https://github.com/Tharusha200219/TEA_FACTORY_MANAGEMENT_SYSTEM_Year_2_Semester_2_Project.git"
+      link: "https://github.com/Tharusha200219/Task_Management_Application_Year_2_Sem_2.git"
     },
     {
       title: "TEA FACTORY MANAGEMENT SYSTEM",
@@ -36,19 +36,19 @@ export const Projects = () => {
       title: "VEHICLE_RENTAL_SERVICE",
       description: "Our Year 2 Semester 1 project is a Java-based vehicle rental service, facilitating easy vehicle bookings. Users can select preferred vehicles, manage bookings. With intuitive interfaces and robust backend functionality, our platform offers a reliable solution for both renters and administrators.",
       imgUrl: projImg4,
-      link: "https://github.com/Tharusha200219/TEA_FACTORY_MANAGEMENT_SYSTEM_Year_2_Semester_2_Project.git"
+      link: "https://github.com/Tharusha200219/VEHICLE_RENTAL_SERVICE_YEAR_2_SEMESTER_1_PROJECT.git"
     },
     {
       title: "ONLINE BOOKSTORE",
       description: "The Online Book Store project is a comprehensive web application designed to simulate an e-commerce platform for purchasing books. This project leverages the power of HTML, CSS, PHP, and XML to create a user-friendly, dynamic, and interactive online shopping experience.",
       imgUrl: projImg5,
-      link: "https://github.com/Tharusha200219/TEA_FACTORY_MANAGEMENT_SYSTEM_Year_2_Semester_2_Project.git"
+      link: "https://github.com/Tharusha200219/ONLINE_BOOKSTORE_YEAR_1_SEMESTER_2.git"
     },
     {
       title: "FLYING MONKEY MOBILE GAME ANDROID",
       description: "Flying Monkey is an exciting mobile game where players control a monkey aiming to catch colored balls. The objective is to gather yellow and green balls for points while avoiding red balls, which deduct from the monkey's three lives. With vibrant visuals and simple controls",
       imgUrl: projImg6,
-      link: "https://github.com/Tharusha200219/TEA_FACTORY_MANAGEMENT_SYSTEM_Year_2_Semester_2_Project.git"
+      link: "https://github.com/Tharusha200219/FLYING_MONKEY_MOBILE_GAME_ANDROID_YEAR_2_SEM_2.git"
     },
   ];
 
